@@ -1,2 +1,2 @@
-# code
-Thers are the code related instructions.
+# Code Instructions
+These are the code-related instructions.
